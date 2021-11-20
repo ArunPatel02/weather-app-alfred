@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-app-alfred/static/css/main.043d871a.chunk.css",
+    "main.js": "/weather-app-alfred/static/js/main.b65d1faf.chunk.js",
+    "main.js.map": "/weather-app-alfred/static/js/main.b65d1faf.chunk.js.map",
+    "runtime-main.js": "/weather-app-alfred/static/js/runtime-main.de7fd3cd.js",
+    "runtime-main.js.map": "/weather-app-alfred/static/js/runtime-main.de7fd3cd.js.map",
+    "static/js/2.1b40bf6e.chunk.js": "/weather-app-alfred/static/js/2.1b40bf6e.chunk.js",
+    "static/js/2.1b40bf6e.chunk.js.map": "/weather-app-alfred/static/js/2.1b40bf6e.chunk.js.map",
+    "static/js/3.7261b213.chunk.js": "/weather-app-alfred/static/js/3.7261b213.chunk.js",
+    "static/js/3.7261b213.chunk.js.map": "/weather-app-alfred/static/js/3.7261b213.chunk.js.map",
+    "index.html": "/weather-app-alfred/index.html",
+    "static/css/main.043d871a.chunk.css.map": "/weather-app-alfred/static/css/main.043d871a.chunk.css.map",
+    "static/js/2.1b40bf6e.chunk.js.LICENSE.txt": "/weather-app-alfred/static/js/2.1b40bf6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de7fd3cd.js",
+    "static/js/2.1b40bf6e.chunk.js",
+    "static/css/main.043d871a.chunk.css",
+    "static/js/main.b65d1faf.chunk.js"
+  ]
+}
